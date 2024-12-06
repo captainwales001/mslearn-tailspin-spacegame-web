@@ -1,6 +1,6 @@
 {
-    "name": "AzurePipelines",
-    "dockerFile": "Dockerfile",
+    // "name": "AzurePipelines",
+    // "dockerFile": "Dockerfile",
 
     // Configure tool-specific properties.
     "customizations": {
